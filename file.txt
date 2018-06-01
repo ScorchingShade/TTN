@@ -1,2 +1,2 @@
 Hello World
-master proto
+prototype
